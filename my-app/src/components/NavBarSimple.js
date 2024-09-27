@@ -37,3 +37,4 @@ class NavBarSimple extends React.Component {
 }
 
 export default NavBarSimple;
+  
